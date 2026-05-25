@@ -1,11 +1,10 @@
 # operation_system
-#Лабораторные работы по дисциплине Операционные системы
-##Лабораторная работа №1
-##Часть 1. Реализация функции: подсчет числа Фибоначчи
-###1)Cоздадим файлы для кода и вставим его
+# Лабораторные работы по дисциплине Операционные системы
+## Лабораторная работа №1
+### 1)Cоздадим файлы для кода и вставим его
 ![](https://github.com/dodgetill/operation_system/blob/main/image/1.png)
-###2)После компиляции и генерации ассемблера получаем ассемблерный код:
-###O0:
+### 2)После компиляции и генерации ассемблера получаем ассемблерный код:
+### O0:
 ```
 cat > factorial_commented.s << 'EOF'
         .file   "factorial.cpp"
@@ -356,20 +355,20 @@ _GLOBAL__sub_I__Z9factoriali:
 3)Теперь создадим Makefile и запустим его:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/2.png)
 все прекрасно создалось и работает
-###Теперь осталось сделать параллельный процесс. Это добавить многопоточность к программе.
+### Теперь осталось сделать параллельный процесс. Это добавить многопоточность к программе.
 ![](https://github.com/dodgetill/operation_system/blob/main/image/3.png)
-###Обновляем Makefile, чтобы всё собиралось одной командой make:
+### Обновляем Makefile, чтобы всё собиралось одной командой make:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/4.png)
 ###Проверяем, что все собирается:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/5.png)
-###Итог:
+### Итог:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/6.png)
-##Лабораторная работа №3a.
-###Вариант 4: В текстовых файлах (. t x t ) найти заданную в параметре сценария строку, из найденных файлов составить список, сохранить его в файл.
-####Создаем файл скрипта:
+## Лабораторная работа №3a.
+### Вариант 4: В текстовых файлах (. t x t ) найти заданную в параметре сценария строку, из найденных файлов составить список, сохранить его в файл.
+#### Создаем файл скрипта:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/9.png)
-####Вставляем код:
+#### Вставляем код:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/10.png)
-####Делаем скрипт исполняемым и создаем тестовые файлы:
+#### Делаем скрипт исполняемым и создаем тестовые файлы:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/11.png)
 ![](https://github.com/dodgetill/operation_system/blob/main/image/12.png)
