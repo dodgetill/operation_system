@@ -352,7 +352,7 @@ _GLOBAL__sub_I__Z9factoriali:
 # Секция, указывающая, что стек не требует исполнения
 .section        .note.GNU-stack,"",@progbits
 ```
-3)Теперь создадим Makefile и запустим его:
+#### 3)Теперь создадим Makefile и запустим его:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/2.png)
 все прекрасно создалось и работает
 ### Теперь осталось сделать параллельный процесс. Это добавить многопоточность к программе.
@@ -363,6 +363,11 @@ _GLOBAL__sub_I__Z9factoriali:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/5.png)
 ### Итог:
 ![](https://github.com/dodgetill/operation_system/blob/main/image/6.png)
+
+## Лабораторная работа №2
+Не смог прикрипеть видео так как очень большой размер файла, поэтому прикрепляю ссылку на гугл диск где смог заугрузить видео, я прикреплю сжатое видео то там мало что видно.
+https://drive.google.com/drive/u/0/folders/1l_Y0eWt6hsyP4atXu3BzFgBirbCRlFbV
+
 ## Лабораторная работа №3a.
 ### Вариант 4: В текстовых файлах (. t x t ) найти заданную в параметре сценария строку, из найденных файлов составить список, сохранить его в файл.
 #### Создаем файл скрипта:
