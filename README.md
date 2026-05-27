@@ -2,7 +2,16 @@
 # Лабораторные работы по дисциплине Операционные системы
 ## Лабораторная работа №1
 ### 1)Cоздадим файлы для кода и вставим его
-![](https://github.com/dodgetill/operation_system/blob/main/image/1.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/1.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/2.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/3.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/4.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/5.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/6.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/7.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/8.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/9.png)
+![](https://github.com/dodgetill/operation_system/blob/main/imagess/10.png)
 ### 2)После компиляции и генерации ассемблера получаем ассемблерный код:
 ### O0:
 ```
